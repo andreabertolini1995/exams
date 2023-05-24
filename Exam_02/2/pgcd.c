@@ -1,4 +1,6 @@
-/* Write a program that takes two strings representing two strictly positive integers that fit in an int.*/
+/* Write a program that takes two strings representing two strictly positive integers that fit in an int.
+Display their highest common denominator followed by a newline (It's always a
+strictly positive integer).*/
 
 #include <stdio.h>
 #include <stdlib.h>

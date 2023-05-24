@@ -49,9 +49,9 @@ char    *search_and_replace(char *str, char *old, char *new)
             k = j - 1;
             while (k >= 0)
             {
-                
                 str[i - 1] = new[k];
                 k--;
+                i--;
             }
         }
         i++;
